@@ -1,0 +1,84 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (OpenMeshWeek4-Sculpting.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  OpenMeshWeek4-Sculpting.cpp
+D:\DDCT_OpenGL_Modeling\Sculping Tool\OpenGL_SculptingTool\includes\glad\glad.h(405,9): warning C4005: 'GL_ALL_ATTRIB_BITS': macro redefinition
+  (compiling source file 'OpenMeshWeek4-Sculpting.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(107,9):
+      see previous definition of 'GL_ALL_ATTRIB_BITS'
+  
+D:\DDCT_OpenGL_Modeling\Sculping Tool\OpenGL_SculptingTool\includes\glad\glad.h(408,9): warning C4005: 'GL_CLIENT_ALL_ATTRIB_BITS': macro redefinition
+  (compiling source file 'OpenMeshWeek4-Sculpting.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(973,9):
+      see previous definition of 'GL_CLIENT_ALL_ATTRIB_BITS'
+  
+D:\DDCT_OpenGL_Modeling\Sculping Tool\OpenGL_SculptingTool\includes\glad\glad.h(506,9): warning C4005: 'GL_LOGIC_OP': macro redefinition
+  (compiling source file 'OpenMeshWeek4-Sculpting.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1152,9):
+      see previous definition of 'GL_LOGIC_OP'
+  
+D:\DDCT_OpenGL_Modeling\Sculping Tool\OpenGL_SculptingTool\includes\glad\glad.h(614,9): warning C4005: 'GL_TEXTURE_COMPONENTS': macro redefinition
+  (compiling source file 'OpenMeshWeek4-Sculpting.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(1153,9):
+      see previous definition of 'GL_TEXTURE_COMPONENTS'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,9): warning C4005: 'APIENTRY': macro redefinition
+  (compiling source file 'OpenMeshWeek4-Sculpting.cpp')
+      D:\DDCT_OpenGL_Modeling\Sculping Tool\OpenGL_SculptingTool\includes\GLFW\glfw3.h(92,11):
+      see previous definition of 'APIENTRY'
+  
+D:\DDCT_OpenGL_Modeling\Sculping Tool\OpenGL_SculptingTool\Sculpting\OpenMeshWeek4-Sculpting.cpp(117,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\DDCT_OpenGL_Modeling\Sculping Tool\OpenGL_SculptingTool\Sculpting\OpenMeshWeek4-Sculpting.cpp(155,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\DDCT_OpenGL_Modeling\Sculping Tool\OpenGL_SculptingTool\Sculpting\OpenMeshWeek4-Sculpting.cpp(264,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\DDCT_OpenGL_Modeling\Sculping Tool\OpenGL_SculptingTool\Sculpting\OpenMeshWeek4-Sculpting.cpp(405,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\DDCT_OpenGL_Modeling\Sculping Tool\OpenGL_SculptingTool\Sculpting\OpenMeshWeek4-Sculpting.cpp(421,55): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\DDCT_OpenGL_Modeling\Sculping Tool\OpenGL_SculptingTool\Sculpting\OpenMeshWeek4-Sculpting.cpp(606,46): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\DDCT_OpenGL_Modeling\Sculping Tool\OpenGL_SculptingTool\Sculpting\OpenMeshWeek4-Sculpting.cpp(655,46): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\DDCT_OpenGL_Modeling\Sculping Tool\OpenGL_SculptingTool\Sculpting\OpenMeshWeek4-Sculpting.cpp(924,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\DDCT_OpenGL_Modeling\Sculping Tool\OpenGL_SculptingTool\Sculpting\OpenMeshWeek4-Sculpting.cpp(925,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\DDCT_OpenGL_Modeling\Sculping Tool\OpenGL_SculptingTool\Sculpting\OpenMeshWeek4-Sculpting.cpp(932,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\DDCT_OpenGL_Modeling\Sculping Tool\OpenGL_SculptingTool\Sculpting\OpenMeshWeek4-Sculpting.cpp(933,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\DDCT_OpenGL_Modeling\Sculping Tool\OpenGL_SculptingTool\Sculpting\OpenMeshWeek4-Sculpting.cpp(934,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\DDCT_OpenGL_Modeling\Sculping Tool\OpenGL_SculptingTool\Sculpting\OpenMeshWeek4-Sculpting.cpp(935,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\DDCT_OpenGL_Modeling\Sculping Tool\OpenGL_SculptingTool\Sculpting\OpenMeshWeek4-Sculpting.cpp(975,30): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\DDCT_OpenGL_Modeling\Sculping Tool\OpenGL_SculptingTool\Sculpting\OpenMeshWeek4-Sculpting.cpp(982,34): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\DDCT_OpenGL_Modeling\Sculping Tool\OpenGL_SculptingTool\Sculpting\OpenMeshWeek4-Sculpting.cpp(989,29): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\DDCT_OpenGL_Modeling\Sculping Tool\OpenGL_SculptingTool\includes\OpenMesh\Core\Geometry\Vector11T.hh(241,22): warning C4244: '*=': conversion from 'const OtherScalar' to '_Ty', possible loss of data
+D:\DDCT_OpenGL_Modeling\Sculping Tool\OpenGL_SculptingTool\includes\OpenMesh\Core\Geometry\Vector11T.hh(241,22): warning C4244:         with
+D:\DDCT_OpenGL_Modeling\Sculping Tool\OpenGL_SculptingTool\includes\OpenMesh\Core\Geometry\Vector11T.hh(241,22): warning C4244:         [
+D:\DDCT_OpenGL_Modeling\Sculping Tool\OpenGL_SculptingTool\includes\OpenMesh\Core\Geometry\Vector11T.hh(241,22): warning C4244:             OtherScalar=double
+D:\DDCT_OpenGL_Modeling\Sculping Tool\OpenGL_SculptingTool\includes\OpenMesh\Core\Geometry\Vector11T.hh(241,22): warning C4244:         ]
+D:\DDCT_OpenGL_Modeling\Sculping Tool\OpenGL_SculptingTool\includes\OpenMesh\Core\Geometry\Vector11T.hh(241,22): warning C4244:         and
+D:\DDCT_OpenGL_Modeling\Sculping Tool\OpenGL_SculptingTool\includes\OpenMesh\Core\Geometry\Vector11T.hh(241,22): warning C4244:         [
+D:\DDCT_OpenGL_Modeling\Sculping Tool\OpenGL_SculptingTool\includes\OpenMesh\Core\Geometry\Vector11T.hh(241,22): warning C4244:             _Ty=float
+D:\DDCT_OpenGL_Modeling\Sculping Tool\OpenGL_SculptingTool\includes\OpenMesh\Core\Geometry\Vector11T.hh(241,22): warning C4244:         ]
+  (compiling source file 'OpenMeshWeek4-Sculpting.cpp')
+      D:\DDCT_OpenGL_Modeling\Sculping Tool\OpenGL_SculptingTool\includes\OpenMesh\Core\Geometry\Vector11T.hh(241,22):
+      the template instantiation context (the oldest one first) is
+          D:\DDCT_OpenGL_Modeling\Sculping Tool\OpenGL_SculptingTool\Sculpting\OpenMeshWeek4-Sculpting.cpp(316,50):
+          see reference to class template instantiation 'OpenMesh::Subdivider::Uniform::LoopT<MyMesh,double>' being compiled
+          D:\DDCT_OpenGL_Modeling\Sculping Tool\OpenGL_SculptingTool\includes\OpenMesh\Tools\Subdivider\Uniform\LoopT.hh(407,8):
+          while compiling class template member function 'void OpenMesh::Subdivider::Uniform::LoopT<MyMesh,double>::smooth(OpenMesh::TriMesh_ArrayKernelT<OpenMesh::DefaultTraits> &,const OpenMesh::VertexHandle &)'
+              D:\DDCT_OpenGL_Modeling\Sculping Tool\OpenGL_SculptingTool\includes\OpenMesh\Tools\Subdivider\Uniform\LoopT.hh(165,17):
+              see the first reference to 'OpenMesh::Subdivider::Uniform::LoopT<MyMesh,double>::smooth' in 'OpenMesh::Subdivider::Uniform::LoopT<MyMesh,double>::subdivide'
+          D:\DDCT_OpenGL_Modeling\Sculping Tool\OpenGL_SculptingTool\includes\OpenMesh\Tools\Subdivider\Uniform\LoopT.hh(428,13):
+          see reference to function template instantiation 'OpenMesh::VectorT<float,3> &OpenMesh::VectorT<float,3>::operator *=<double>(const OtherScalar &)' being compiled
+          with
+          [
+              OtherScalar=double
+          ]
+  
+glfw3.lib(init.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(init.obj)' or at ''; linking object as if no debug info
+glfw3.lib(window.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(window.obj)' or at ''; linking object as if no debug info
+glfw3.lib(input.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(input.obj)' or at ''; linking object as if no debug info
+glfw3.lib(context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(context.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_init.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_init.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_monitor.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_monitor.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_time.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_time.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_thread.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_thread.obj)' or at ''; linking object as if no debug info
+glfw3.lib(monitor.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(monitor.obj)' or at ''; linking object as if no debug info
+glfw3.lib(vulkan.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(vulkan.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_window.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_window.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_joystick.obj)' or at ''; linking object as if no debug info
+glfw3.lib(wgl_context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(wgl_context.obj)' or at ''; linking object as if no debug info
+glfw3.lib(egl_context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(egl_context.obj)' or at ''; linking object as if no debug info
+glfw3.lib(osmesa_context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(osmesa_context.obj)' or at ''; linking object as if no debug info
+  OpenMeshWeek4-Sculpting.vcxproj -> D:\DDCT_OpenGL_Modeling\Sculping Tool\OpenGL_SculptingTool\x64\Debug\SculptingTool.exe

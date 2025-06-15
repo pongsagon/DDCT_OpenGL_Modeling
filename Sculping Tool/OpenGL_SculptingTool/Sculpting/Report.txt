@@ -1,0 +1,59 @@
+Sculpted 32288 vertices.
+[sculptMesh] BFS+UpdateNormal Time: 70 ms
+[sculptMesh] Total Time: 70 ms
+[updateMeshBuffers_FullUpload] glBufferData Time: 17 ms
+[updateMeshBuffers_FullUpload] Total Function Time: 17 ms
+
+Sculpted 140652 vertices.
+[sculptMesh] BFS+UpdateNormal Time: 314 ms
+[sculptMesh] Total Time: 314 ms
+[updateMeshBuffers_FullUpload] glBufferData Time: 17 ms
+[updateMeshBuffers_FullUpload] Total Function Time: 17 ms
+
+
+Sculpted 32172 vertices.
+[sculptMesh] BFS Time: 21 ms
+[sculptMesh] Normal Update Time: 37 ms
+[sculptMesh] Total Time: 58 ms
+[updateMeshBuffers_FullUpload] glBufferData Time: 17 ms
+[updateMeshBuffers_FullUpload] Total Function Time: 17 ms
+
+
+Sculpted 174876 vertices.
+[sculptMesh] BFS Time: 122 ms
+[sculptMesh] Normal Update Time: 255 ms
+[sculptMesh] Total Time: 377 ms
+[updateMeshBuffers_FullUpload] glBufferData Time: 17 ms
+[updateMeshBuffers_FullUpload] Total Function Time: 18 ms
+
+
+Sculpted 30613 vertices.
+Sculpted 61853 triangles.
+[sculptMesh] BFS Time: 18 ms
+[sculptMesh] Sculpt Apply Time: 5 ms
+[sculptMesh] Normal Update Time: 32 ms
+[sculptMesh] Total Time: 56 ms
+[updateMeshBuffers_FullUpload] glBufferData Time: 16 ms
+[updateMeshBuffers_FullUpload] Total Function Time: 16 ms
+
+Sculpted 30879 vertices.
+Sculpted 62395 triangles.
+[sculptMesh] BFS Time: 19 ms
+[sculptMesh] Sculpt Apply Time: 5 ms
+[sculptMesh] Normal Update Time: 72 ms
+[sculptMesh] Total Time: 97 ms
+[updateMeshBuffers_FullUpload] glBufferData Time: 8 ms
+[updateMeshBuffers_FullUpload] Total Function Time: 8 ms
+
+
+Sculpted 83533 vertices.
+Sculpted 168093 triangles.
+[sculptMesh] BFS Time: 55 ms
+[sculptMesh] Sculpt Apply Time: 15 ms
+[sculptMesh] Normal Update Time: 205 ms
+[sculptMesh] Total Time: 276 ms
+[updateMeshBuffers_FullUpload] glBufferData Time: 9 ms
+[updateMeshBuffers_FullUpload] Total Function Time: 9 ms
+
+
+
